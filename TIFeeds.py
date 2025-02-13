@@ -11,7 +11,6 @@ base_url = "https://raw.githubusercontent.com/CriticalPathSecurity/Zeek-Intellig
 
 # List of .intel files to process
 intel_files = [
-    "abuse-ch-malware.intel",
     "abuse-ch-threatfox-ip.intel",
     "compromised-ips.intel",
     "tweetfeed.intel"
