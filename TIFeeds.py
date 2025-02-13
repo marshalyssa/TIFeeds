@@ -14,6 +14,7 @@ intel_files = [
     "abuse-ch-malware.intel",
     "abuse-ch-threatfox-ip.intel",
     "compromised-ips.intel"
+    "tweetfeed.intel"
 ]
 
 # List to store all rows from all CSV files
