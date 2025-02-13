@@ -16,6 +16,9 @@ intel_files = [
     "compromised-ips.intel"
 ]
 
+# List to store all rows from all CSV files
+all_rows = []
+
 # Process each .intel file
 for intel_file in intel_files:
     # Fetch the .intel file
@@ -32,6 +35,16 @@ for intel_file in intel_files:
         csv_writer = csv.writer(csv_file)
         for line in lines:
             # Split the line by tabs (assuming the .intel file is tab-separated)
-            csv_writer.writerow(line.split('\t'))
+            row = line.split('\t')
+            csv_writer.writerow(row)
+            all_rows.append(row)  # Add the row to the all_rows list
 
     print(f"Converted {intel_file} to {csv_file_name}")
+
+# Save all rows to a single all.csv file
+with open("all.csv", mode='w', newline='', encoding='utf-8') as all_csv_file:
+    csv_writer = csv.writer(all_csv_file)
+    csv_writer.writerow(["indicator", "indicator_type", "meta.source", "meta.do_notice", "meta.desc"])  # Add header
+    csv_writer.writerows(all_rows)  # Write all rows
+
+print("Merged all CSV files into all.csv")
