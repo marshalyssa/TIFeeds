@@ -9,6 +9,9 @@ jobs:
   convert:
     runs-on: windows-latest  # Use Windows runner
 
+    permissions:
+      contents: write  # Grant write permissions to the GITHUB_TOKEN
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
