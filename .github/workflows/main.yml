@@ -25,7 +25,7 @@ jobs:
 
     - name: Run conversion script
       run: |
-        python convert_intel_to_csv.py
+        python TIFeeds.py
 
     - name: Commit and push changes
       run: |
