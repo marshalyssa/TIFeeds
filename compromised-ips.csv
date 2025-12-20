@@ -1,6 +1,5 @@
 101.36.104.242,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 103.113.81.66,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
-103.143.11.66,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 103.149.28.148,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 103.163.119.125,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 103.210.21.20,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
@@ -8,6 +7,7 @@
 103.224.243.145,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 103.229.215.161,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 103.237.147.104,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
+103.245.111.70,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 103.252.73.37,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 103.253.147.250,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 104.201.7.66,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
@@ -36,6 +36,7 @@
 116.110.153.144,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 116.110.154.82,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 116.110.154.85,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
+116.110.158.146,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 116.110.210.100,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 116.110.212.188,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 116.110.214.130,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
@@ -61,7 +62,6 @@
 128.14.167.117,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 128.14.227.179,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 128.1.47.28,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
-128.199.103.139,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 128.199.157.92,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 128.199.96.5,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 129.212.179.126,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
@@ -70,8 +70,8 @@
 129.45.84.93,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 131.203.141.54,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 134.122.55.23,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
-134.122.99.254,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 134.199.172.157,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
+134.199.172.253,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 134.199.172.84,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 134.199.192.61,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 134.199.195.18,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
@@ -82,6 +82,7 @@
 134.209.147.167,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 134.209.188.243,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 134.209.193.118,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
+134.209.30.249,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 134.209.9.32,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 134.209.94.142,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 13.52.163.184,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
@@ -95,6 +96,7 @@
 138.197.29.134,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 138.197.70.12,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 138.68.140.120,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
+138.68.167.90,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 138.68.236.32,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 138.68.59.77,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 138.68.63.80,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
@@ -110,7 +112,6 @@
 139.59.94.117,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 139.59.9.62,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 142.248.29.44,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
-14.225.2.124,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 142.93.138.197,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 142.93.163.23,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 142.93.165.100,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
@@ -123,16 +124,15 @@
 143.198.96.49,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 143.20.185.79,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 143.244.143.131,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
+144.126.202.25,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 144.126.224.102,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 144.31.120.242,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 146.190.225.27,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 146.190.228.232,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 146.190.232.75,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 146.190.236.239,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
-147.182.194.60,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 147.182.204.191,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 147.182.241.129,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
-147.189.161.77,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 148.113.14.231,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 150.241.115.127,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 151.242.30.13,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
@@ -151,6 +151,7 @@
 157.245.66.34,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 157.245.76.34,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 157.66.27.232,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
+159.203.111.120,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 159.203.123.220,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 159.203.171.249,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 159.203.45.75,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
@@ -184,6 +185,7 @@
 165.101.126.54,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 165.154.231.140,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 165.154.233.77,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
+165.22.123.78,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 165.22.146.164,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 165.22.197.137,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 165.22.217.233,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
@@ -191,6 +193,7 @@
 165.227.117.31,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 165.227.122.138,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 165.227.14.68,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
+165.227.181.137,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 165.227.212.180,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 165.227.218.90,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 165.227.238.144,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
@@ -203,11 +206,13 @@
 165.245.130.89,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 165.245.130.93,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 165.245.130.98,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
+165.245.133.152,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 167.172.127.120,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 167.172.19.121,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 167.172.194.155,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 167.172.33.187,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 167.172.51.140,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
+167.172.56.44,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 167.179.81.184,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 167.71.104.234,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 167.71.131.159,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
@@ -224,10 +229,13 @@
 167.99.51.241,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 170.64.189.117,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 170.64.199.230,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
+170.64.228.179,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 171.231.177.80,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 171.231.178.132,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
+171.231.178.51,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 171.231.182.67,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 171.231.183.89,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
+171.231.184.172,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 171.231.184.179,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 171.231.187.225,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 171.231.188.25,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
@@ -242,7 +250,6 @@
 171.231.198.81,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 171.231.199.41,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 171.243.149.124,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
-171.243.150.126,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 171.243.150.186,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 171.243.150.234,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 173.224.125.59,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
@@ -261,7 +268,6 @@
 178.128.63.241,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 178.17.58.173,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 178.62.201.8,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
-178.62.76.60,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 179.124.29.70,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 179.43.184.242,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 18.144.170.245,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
@@ -276,9 +282,10 @@
 185.165.28.108,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 185.207.66.44,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 185.242.247.154,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
-185.73.124.44,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 185.85.205.250,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 185.85.205.251,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
+188.166.148.64,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
+188.166.151.190,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 188.166.171.167,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 188.166.175.132,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 188.166.218.5,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
@@ -290,10 +297,9 @@
 193.221.201.95,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 194.150.220.102,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 194.32.142.49,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
+195.154.179.168,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 195.154.94.212,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
-195.24.237.182,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 196.203.106.106,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
-196.223.240.159,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 196.251.100.150,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 196.251.100.74,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 197.220.93.98,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
@@ -358,6 +364,7 @@
 27.79.3.77,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 27.79.40.131,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 27.79.40.74,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
+27.79.43.128,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 27.79.43.24,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 27.79.43.253,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 27.79.45.77,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
@@ -365,6 +372,7 @@
 27.79.47.113,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 27.79.47.135,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 27.79.5.113,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
+27.79.5.120,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 27.79.5.214,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 27.79.5.24,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 27.79.6.240,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
@@ -414,7 +422,6 @@
 46.101.109.214,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 46.101.208.165,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 46.101.246.174,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
-46.101.88.73,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 46.101.99.5,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 46.19.100.88,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 46.21.250.78,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
@@ -457,6 +464,7 @@
 64.23.215.235,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 64.23.246.117,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 66.102.123.250,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
+67.205.163.146,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 67.227.213.45,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 68.183.151.45,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 68.183.230.148,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
@@ -464,6 +472,7 @@
 68.183.88.226,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 74.207.237.5,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 74.207.252.24,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
+77.22.70.198,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 78.98.53.75,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 78.98.54.76,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
 79.124.56.198,Intel::ADDR,Emerging-Threats,F,Compromised-IPs
